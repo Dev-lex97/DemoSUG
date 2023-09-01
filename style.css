@@ -1,0 +1,279 @@
+body {
+  background-image: url("Project images/bg_img3.jpg");
+}
+
+.img {
+  position: relative;
+  right: auto;
+  opacity: 60%;
+  
+}
+
+.sugtext {
+  position: absolute;
+  top: 30px;
+  left: 550px;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin-top: 40px;
+  
+}
+
+.head1 {
+ display: flex;
+ gap: 1.8em;
+ justify-content: center;
+ margin-bottom: 10px;
+ 
+}
+.counter1 {
+  border-style: solid;
+  border-width: 1px;
+  background-color: white;
+  border-radius: 5px;
+  border-color: grey;
+  box-shadow: 0px 1px 5px gray;
+  width: 500px;
+  height: 110px;
+}
+.election-text {
+  text-align: center;
+  margin-top: 68px;
+  font-family: arial;
+  font-weight: bolder;
+  color: grey;
+  font-size: 12.5px;
+  
+}
+.counter2 {
+  border-style: solid;
+  border-width: 1px;
+  background-color: white;
+  border-color: grey;
+  border-radius: 5px;
+  box-shadow: 0px 1px 5px gray;
+  width: 300px;
+  height: 110px;
+  
+}
+.thousand {
+  text-align: center;
+  font-family: arial;
+  font-weight: bolder;
+  font-size: 32px;
+  margin-bottom: 0px;
+  margin-top: 23px;
+  
+}
+.registered-voters {
+  text-align: center;
+  font-family: arial;
+  font-weight: bolder;
+  color: grey;
+  font-size: 12.5px;
+}
+
+.counter3 {
+  border-style: solid;
+  border-width: 1px;
+  background-color: white;
+  border-radius: 5px;
+  border-color: grey;
+  box-shadow: 0px 1px 5px gray;
+  width: 230px;
+  height: 110px;
+  
+}
+.thousand2 {
+  text-align: center;
+  font-family: arial;
+  font-weight: bolder;
+  font-size: 32px;
+  margin-bottom: 0px;
+  margin-top: 23px;
+}
+.total-voters {
+  text-align: center;
+  font-family: arial;
+  font-weight: bolder;
+  color: grey;
+  font-size: 12.5px;
+  
+}
+
+/*RESULT CONTAINER STYLE*/
+
+.Chead {
+  color: black;
+  font-size: 22px;
+  font-family: arial;
+  font-weight: bolder;
+  text-align: center;
+  margin-bottom: 12px;
+  margin-top: 30PX;
+}
+
+.maincontainer {
+  display: flex;
+  justify-content: center;
+  gap: 1.8em;
+  
+}
+
+.container {
+  background-color: white;
+  width: 355px;
+  min-height: 0px;
+  border-radius: 5px;
+  padding-bottom: 10px;
+  box-shadow: 0px 1px 5px gray;
+}
+
+.pics {
+  text-align: center;
+  margin-top: 25px;
+  
+}
+.pic {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  margin-bottom: 0px;
+}
+.count {
+  color: #198754;
+  font-size: 2rem;
+  font-style: bold;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 7px;
+}
+
+/*STUDENT DETAILS*/
+
+.details{
+  color: black;
+}
+
+.name {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: grey;
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.nick {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: grey;
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 8px;
+}
+.faculty {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: grey;
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 8px;
+}
+.dept {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: grey;
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 8px;
+}
+.position {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: grey;
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 8px;
+}
+.level {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: grey;
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 8px;
+}
+
+.line-break {
+  width: 1120px;
+  color: gray;
+  background-color: rgba(128, 128, 128, 0.445);
+  height: 3px;
+  margin-top: 40px;
+  margin-top: 40px;
+}
+
+/*VICE PRESIDENT SECTION*/
+
+.Chead2 {
+  color: black;
+  font-size: 22px;
+  font-family: arial;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 45px;
+  margin-bottom: 13px;
+}
+.maincontainer2{
+  display: flex;
+  gap: 1.8em;
+  margin-left: 105px;
+}
+.container2 {
+  background-color: white;
+  width: 355px;
+  min-height: 0px;
+  border-radius: 5px;
+  padding-bottom: 10px;
+  box-shadow: 0px 1px 5px gray;
+}
+
+h5 {
+  text-align: center;
+  font-size: 15px;
+  font-weight: lighter;
+  margin-top: 3px;
+}
+.Chead3 {
+  color: black;
+  font-size: 22px;
+  font-family: arial;
+  font-weight: lighter;
+  text-align: center;
+  margin-bottom: 12px;
+  margin-top: 30PX;
+}
+
+
+
+
+/*
+width: 300px;
+  min-height: 380px;
+  padding: 20px;
+  border: 2px solid rgb(102, 23, 23);
+  border: none;
+  border-radius: 2%;
+  background-color: #ffffff;
+  font-size: 16px;
+  box-shadow: 5px 5px 10px grey;
+  margin-left: 8%;
+  */
+
